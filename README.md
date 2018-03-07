@@ -6,6 +6,6 @@
 
 - 不得说可视化开发确实简便快捷。
 
-- 记一次Delphi期末考试。。。
+- 运行界面
 
-![share](https://github.com/AlexMYH/AlexMYH.github.io/raw/master/readme_files/share.png)
+![share](https://github.com/AlexMYH/Delphi-test-in-university/blob/master/TIM.jpg)
