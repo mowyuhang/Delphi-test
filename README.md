@@ -6,6 +6,6 @@
 
 - 不得说可视化开发确实简便快捷。
 
-- 运行界面
+## 运行界面
 
 ![share](https://github.com/AlexMYH/Delphi-test-in-university/blob/master/TIM.jpg)
